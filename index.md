@@ -18,8 +18,8 @@ page_sections:
   - link: "#blocks"
     link_text: Blocks
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: https://signup.easynative.app
+    button_text: Try Free
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -28,8 +28,8 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://easynative.app/#features
+    button_text: 'Features '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
@@ -62,7 +62,7 @@ page_sections:
   headline: 16 Fully Responsive Design Blocks
   content: |
     The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
+    of Blocks we recommend using <a href="https://saigonese.io">saigonese.io</a>. Once the site is imported you can immediately
     create new sites and make them fully customizable.
 - template: full-width-media-element
   block: media-1
@@ -73,12 +73,12 @@ page_sections:
   block: text-1
   headline: Steps to Build a Site!
   content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
+    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.saigonese.io/">Import
+    this demo with saigonese.io</a>.</p></li><li><p>Read <a href="https://saigonese.io/blog/build-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
     Blocks and preview them as you go along.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Made with ❤︎ in Saigon
 
 ---
