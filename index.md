@@ -44,7 +44,7 @@ page_sections:
     different sections.
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    alt_text: Easy Native App
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -55,7 +55,7 @@ page_sections:
     CMS.
   media:
     image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
+    alt_text: Customize Website
 - template: 1-column-text
   block: one-column-1
   slug: responsive
